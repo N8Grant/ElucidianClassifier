@@ -13,7 +13,6 @@ This program is a cimple classifier which is used to determine a houses proximit
 7. households: Total number of households, a group of people residing within a home unit, for a block
 8. medianIncome: Median income for households within a block of houses (measured in tens of thousands of US Dollars)
 9. medianHouseValue: Median house value for households within a block (measured in US Dollars)
-10. oceanProximity: Location of the house w.r.t ocean/sea
 
 Classification
 
